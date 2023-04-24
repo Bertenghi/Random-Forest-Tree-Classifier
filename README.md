@@ -5,6 +5,8 @@ This repository contains an implementation of the [Random Forest algorithm for c
 
 This repository was created for a project of the 2019/2020 course [*An Introduction to Machine Learning*](https://www.math.uzh.ch/index.php?id=ve_vo_det&key2=3699&semId=39) at the math department of the University of Zurich.
 
+Our implementation allows for 93% accuracy on unseen data. 
+
 ### How to run the code
 Install Python 3.7 or newer from https://www.python.org/. Download all the files in this repository and put them in a dedicated directory. In order to use the IPython Notebook you will have to install [Jupyter](https://jupyter.org/install). Make sure to have all requirements installed, for example by using `pip install -r requirements.txt`.
 
